@@ -49,7 +49,7 @@ The second list is **TimeEntries** which is the main list that stores all of the
 
 ## Installation
 
-* [Download](./WeeklyTimesheetTemplateSP_1_0_0_2.zip) the `.zip`.
+* [Download](./WeeklyTimesheet_20250416050557.zip) the `.zip`.
 * Within **Power Apps Studio**, import the app `.zip` file using **Apps** > **Import Apps** and select the `.zip` file you just packed.
 * Open the Timesheet Template app in Edit mode
 * Go to the datasources tab and remove the BillTo and TimeEntries tables
